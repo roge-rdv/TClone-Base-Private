@@ -1,0 +1,13 @@
+telethon==1.28.5
+apscheduler==3.10.1
+python-dotenv==1.0.0
+pyinstaller>=6.10.0
+pillow>=10.0.0
+pytz==2023.3
+charset-normalizer==3.2.0
+cryptography==41.0.3
+# Optional dependency - não causa erro se não instalar
+pywin32>=307; sys_platform == 'win32'
+flask
+py-cpuinfo
+stripe

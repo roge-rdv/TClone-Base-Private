@@ -1,0 +1,28 @@
+{
+    "api_id": "28774380",
+    "api_hash": "010c77200f9b5540effcc17485ee6cf5",
+    "bot_token": "",
+    "source_chats": [
+        -1002549069379
+    ],
+    "destination_chats": [
+        -1002593230411
+    ],
+    "chat_id": 1260932137,
+    "log_level": "INFO",
+    "blocked_words": [],
+    "replacements": {
+        "oi": "tchau",
+        "teste": "testado"
+    },
+    "sticker_replacements": {
+        "1391391008142393345": "1391391008142393434"
+    },
+    "image_replacements": {},
+    "schedule": {
+        "enable": false,
+        "start_time": "12:51",
+        "end_time": "12:52"
+    },
+    "replicar_apenas_texto": false
+}
